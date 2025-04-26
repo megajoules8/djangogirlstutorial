@@ -1,0 +1,2 @@
+# djangogirlstutorial
+DjangoconEU2025
